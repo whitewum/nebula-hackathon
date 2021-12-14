@@ -89,6 +89,8 @@ EdgeA_Outn
 
 ![image](https://user-images.githubusercontent.com/50101159/145526122-f4896cce-dd05-4878-8b09-5b1a05522eda.png)
 
+![image](https://user-images.githubusercontent.com/50101159/145958611-47138394-5ca8-4627-98be-7f507c5d5cf3.png)
+
 JanusGraph 将一个点的ID作为KEY, “<所有属性>,<所有出边>，<所有入边>” 作为一个超级大的value
 
 好处：
